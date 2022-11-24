@@ -32,6 +32,7 @@ body main, footer{
     padding-right: 5%;
 }
 body main h2{
+    color: black;
     font-size: 40px;
 }
 body main h3{
