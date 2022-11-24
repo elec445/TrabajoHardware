@@ -33,6 +33,7 @@ body main, footer{
 }
 body main h2{
     color: black;
+    opacity: 1;
     font-size: 40px;
 }
 body main h3{
